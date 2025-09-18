@@ -30,3 +30,4 @@ C:\Users\Matheus\Desktop\LojaOnline\obj\Debug\net9.0\refint\LojaOnline.dll
 C:\Users\Matheus\Desktop\LojaOnline\obj\Debug\net9.0\LojaOnline.pdb
 C:\Users\Matheus\Desktop\LojaOnline\obj\Debug\net9.0\LojaOnline.genruntimeconfig.cache
 C:\Users\Matheus\Desktop\LojaOnline\obj\Debug\net9.0\ref\LojaOnline.dll
+C:\Users\Matheus\Desktop\LojaOnline\obj\Debug\net9.0\LojaOnline.sourcelink.json
